@@ -1,0 +1,29 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Material for MkDocs\n#\n\n\nBeautiful documentation\n#\n\n\nMaterial is a theme for \nMkDocs\n, an excellent static site generator geared\ntowards project documentation. It is built using Google's \nmaterial design\n\nguidelines, full responsive, optimized for touch and pointer devices as well\nas all sorts of screen sizes.\n\n\n\n\nMaterial is very lightweight \u2013 it is built from scratch using Javascript and\nCSS that weighs less than 30kb (minified, gzipped and excluding Google Fonts\nand Analytics). Yet, it is highly customizable and degrades gracefully in older\nbrowsers.\n\n\nQuick start\n#\n\n\nInstall with \npip\n:\n\n\npip install mkdocs-material\n\n\n\n\n\nAdd the following line to your \nmkdocs.yml\n:\n\n\ntheme\n:\n \n'material'\n\n\n\n\n\n\nFeatures\n#\n\n\n\n\n\n\nBeautiful, readable and very user-friendly design based on Google's material\n  design guidelines, packed in a full responsive template with a well-defined\n  and \neasily customizable color palette\n, great typography, as well as a\n  beautiful search interface and footer.\n\n\n\n\n\n\nWell-tested and optimized Javascript and CSS including a cross-browser\n  fixed/sticky header, a drawer that even works without Javascript using\n  the \ncheckbox hack\n with fallbacks, responsive tables that scroll when\n  the screen is too small and well-defined print styles.\n\n\n\n\n\n\nExtra configuration options like a \nproject logo\n, links to the authors\n  \nGitHub and Twitter accounts\n, display of the amount of stars the\n  project has on GitHub and \nGoogle Analytics integration\n.\n\n\n\n\n\n\nEasily \nextendable and customizable\n due to a well-designed asset pipeline\n  built on-top of \nGulp\n with \nnpm\n and \nbower\n and modular and abstracted\n  style definitions built with \nSASS\n.\n\n\n\n\n\n\nWeb application capability on iOS \u2013 when the page is saved to the homescreen,\n  it behaves and looks like a native application.\n\n\n\n\n\n\nSee the \ngetting started guide\n for instructions how to get\nit up and running.",
+            "title": "Material"
+        },
+        {
+            "location": "/#material-for-mkdocs",
+            "text": "",
+            "title": "Material for MkDocs"
+        },
+        {
+            "location": "/#beautiful-documentation",
+            "text": "Material is a theme for  MkDocs , an excellent static site generator geared\ntowards project documentation. It is built using Google's  material design \nguidelines, full responsive, optimized for touch and pointer devices as well\nas all sorts of screen sizes.   Material is very lightweight \u2013 it is built from scratch using Javascript and\nCSS that weighs less than 30kb (minified, gzipped and excluding Google Fonts\nand Analytics). Yet, it is highly customizable and degrades gracefully in older\nbrowsers.",
+            "title": "Beautiful documentation"
+        },
+        {
+            "location": "/#quick-start",
+            "text": "Install with  pip :  pip install mkdocs-material  Add the following line to your  mkdocs.yml :  theme :   'material'",
+            "title": "Quick start"
+        },
+        {
+            "location": "/#features",
+            "text": "Beautiful, readable and very user-friendly design based on Google's material\n  design guidelines, packed in a full responsive template with a well-defined\n  and  easily customizable color palette , great typography, as well as a\n  beautiful search interface and footer.    Well-tested and optimized Javascript and CSS including a cross-browser\n  fixed/sticky header, a drawer that even works without Javascript using\n  the  checkbox hack  with fallbacks, responsive tables that scroll when\n  the screen is too small and well-defined print styles.    Extra configuration options like a  project logo , links to the authors\n   GitHub and Twitter accounts , display of the amount of stars the\n  project has on GitHub and  Google Analytics integration .    Easily  extendable and customizable  due to a well-designed asset pipeline\n  built on-top of  Gulp  with  npm  and  bower  and modular and abstracted\n  style definitions built with  SASS .    Web application capability on iOS \u2013 when the page is saved to the homescreen,\n  it behaves and looks like a native application.    See the  getting started guide  for instructions how to get\nit up and running.",
+            "title": "Features"
+        }
+    ]
+}
