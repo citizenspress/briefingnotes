@@ -32,14 +32,22 @@ repo_url: https://github.com/citizenspress/briefingnotes
 copyright: Copyright (c) 2016 Graham Cox
 
 # Documentation and theme
-theme_dir: material
+# theme_dir: material
+theme: journal
 
 # Options
 extra:
-  version: 0.2.4
+#  version: 0.2.4
   logo: images/logo.png
-  github:
-    download_release: true
+  font:
+  text: 'Crimson Text'
+  code: 'Roboto Mono'
+#  palette:
+#    primary: 'indigo'
+#    accent: 'light blue'
+
+#  github:
+#    download_release: true
   author:
     github: citizenspress
     twitter: leftnewsorg
@@ -49,10 +57,12 @@ markdown_extensions:
   - codehilite(css_class=code)
   - admonition
   - toc:
-      permalink: '#'
+      permalink: ' ~'
 
 # Page tree
 pages:
-  - Material: index.md
-
+  - Electricity Reform: index.md
+  - Ontario Renewables: Ontario-cancel.md
+  - PSE Privatization: pse-financialization.md
+  - Asset Recycling: assets.md
 #  - License: license.md
