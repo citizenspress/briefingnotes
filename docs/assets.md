@@ -195,4 +195,3 @@ to 7.5%. This means it would have been much cheaper to borrow through
 traditional public debt mechanisms to build publicly owned
 infrastructure.
 
-A bit of an edit.
